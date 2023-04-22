@@ -12,3 +12,10 @@
     top: 100px;
     right: 10px;
 }
+
+div {color: red !important}
+#color_yello {color: yellow;}
+.color_green {color: green;}
+div {color: blue;}
+* {color: darkblue;}
+body {color: violet;}
